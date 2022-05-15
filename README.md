@@ -1,4 +1,3 @@
-Awsesome | Portfolio Website 
 
 
 Curated list of Developer Github Profiles for your inspiration.
