@@ -1,0 +1,239 @@
+// Declarations
+$bg-dark: rgb(0, 0, 0);
+$blue_icon: rgb(70, 119, 255);
+$white: rgb(255, 255, 255);
+$gray: gray;
+// @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+
+
+
+// Actual Code
+* {
+  padding: 0;
+  box-sizing: border-box;
+  // border: 1px solid red;
+}
+.banner {
+  padding: 20px 20px 30px 20px;
+}
+.media_body {
+  padding: 10px;
+}
+.container-fluid {
+  padding: 15px 0;
+  background-color: $bg-dark;
+}
+nav.navbar {
+  padding: 0 10px;
+  background-color: $bg-dark;
+  color: $white;
+}
+.navbar-brand {
+  color: $white;
+  font-weight: 700;
+  text-transform: uppercase;
+  transform: scaleY(1.7);
+  letter-spacing: 3px;
+  font-size: xx-large;
+}
+.image {
+  display: flex;
+  justify-content: center;
+  margin: 10px 10px;
+  img {
+    max-width: 85%;
+    max-height: 90%;
+    border-radius: 10px;
+  }
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 20px 20px;
+
+  p:nth-child(1) {
+    transform: scaleY(0.9);
+    text-transform: uppercase;
+  }
+  p#user_Name {
+    text-transform: uppercase;
+    font-size: 50px;
+    // transform: scaleY(2.1);
+    font-weight: 800;
+    word-spacing: 5px;
+    // padding: 0  0 10px 0  ;
+    margin: 0 0 20px 0;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+
+  h6 {
+    font-weight: bold;
+    font-size: 16px;
+    margin: 0 0 20px 0;
+  }
+  #headLine {
+    color: $gray;
+    word-break: keep-all;
+    margin: 0 0 20px 0;
+  }
+  .list_of_basic_info {
+    .email,
+    .education {
+      display: flex;
+      align-items: center;
+      margin: 10px 0;
+      p {
+        margin: 0 5px;
+        color: $gray;
+        font-size: small;
+        cursor: pointer;
+      }
+      p:hover {
+        color: $blue_icon;
+      }
+      #icon {
+        color: $blue_icon;
+      }
+    }
+    .social_media_handels {
+      display: flex;
+      width: 100%;
+      align-items: flex-start;
+
+      svg {
+        margin: 40px 20px 0 0;
+        max-width: 12%;
+        height: 30%;
+        color: $gray;
+        cursor: pointer;
+      }
+    }
+  }
+}
+
+section {
+  background-color: rgba(219, 219, 219, 0.562);
+  padding: 70px 0;
+  .welcome_area {
+    .col-lg-6 {
+      padding: 0 1rem;
+      h4 {
+        font-size: xx-large;
+        font-weight: 700;
+        text-align: center;
+        padding: 0 0 1rem 0;
+        margin: 0;
+      }
+      p {
+        // word-break: break-all;
+        text-align: justify;
+      }
+      .social_widgets {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        align-items: center;
+
+        svg {
+          margin: 0 20px;
+          max-width: 10%;
+          height: 40%;
+        }
+      }
+    }
+  }
+
+  .home_gallery_area {
+    margin: 1px 0;
+    .container {
+      h2 {
+        font-size: xx-large;
+        font-weight: 700;
+        text-align: center;
+        padding: 0 0 1rem 0;
+        margin: 0;
+      }
+      p {
+        text-align: justify;
+        margin: 0 0 20px 0;
+      }
+    }
+    .gallery_inner {
+      padding: 0 1rem;
+      #columns_gallery {
+        padding: 0 15px;
+
+        .gallery_item {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          width: 100%;
+          .g_img_item {
+            width: 100%;
+            img {
+              max-width: 100%;
+              max-height: 100%;
+              margin: 20px 0 20px 0;
+              border-radius: 15px;
+            }
+          }
+          .g_text_item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            h4 {
+              font-weight: bold;
+              font-size: larger;
+              padding: 0 0 10px 0;
+              text-transform: uppercase;
+            }
+            a {
+              text-decoration: none;
+              font-weight: 700;
+              font-size: large;
+              margin: 0 0 10px 0;
+              cursor: pointer;
+            }
+            p {
+              color: $gray;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+footer {
+  background-color: $bg-dark;
+  color: $white;
+  padding: 70px 10px 10px 10px;
+
+  .footer_area {
+    h3 {
+      font-weight: bolder;
+      font-size: x-large;
+      margin: 0 0 20px 0;
+    }
+    p {
+      color: $gray;
+    }
+  }
+  .col-lg-2 {
+    .social_icons_wedgit {
+      display: flex;
+      // justify-content: ;
+      width: 100%;
+      align-items: flex-start;
+
+      svg {
+        margin: 0 5px;
+        max-width: 8%;
+        height: 10%;
+      }
+    }
+  }
+}
