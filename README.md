@@ -5,14 +5,11 @@
 
 <h3 align="center">A passionate Frontend Developer and future Full stack develoer from India .I am an experienced developer skilled in C, Java, SASS, Bootstrap, TailwindCss, Frontend Development, NodeJs, ExpressJs, SQl, Javascript and its frameworks like ReactJs. My activities are much beyond my stream of education. ⚡ I am involved in a Student Council Technical Team in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.</h3>
 
-- 🌱 I’m currently learning **MongoDB , Backend Development**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available here.
-<!-- - at [https://santosh-phadtare.netlify.app/](https://santosh-phadtare.netlify.app/) -->
 
-- 💬 Ask me about **react , js , C , NodeJs**
-
-- 📫 How to reach me **santoshphadtare1610@gmail.com**
+- 📫 How to reach me **hellosantoshp.dev@gmail.com**
 
 - ⚡ Fun fact **I think helping people , is biggest achievement.**
 
