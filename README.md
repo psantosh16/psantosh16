@@ -16,7 +16,7 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psantosh16&" alt="psantosh16" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psantosh16&" alt="psantosh16" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
