@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Santosh</h1>
 
 <h2 align="left">
-  <p>As a seasoned Full Stack Developer with a proficiency in MERN stack technologies and expertise in crafting immersive digital experiences, I bring a unique blend of passion and skill to the realm of software development. My journey began in the vibrant landscapes of India, and since then, I've honed my coding craft in languages such as C, Java, and Dart. Specializing in the MERN stack, along with Flutter for mobile app development, I have successfully woven captivating stories in pixels and lines of code.</p>
-
-  
 <p>My professional journey goes beyond coding; I actively contribute to my college's Student Council Technical Team, playing a pivotal role in shaping vibrant communities through clubs, hackathons, fests, and workshops. This is not just a profession; it's a narrative of dedication, continuous learning, and innovation.</p>
 
 <p>Eager to embark on new challenges, I invite you to join me on this exhilarating journey of tech tales and innovation. Let's build something extraordinary together! 💻✨</p> #TechInnovator #FullStackDeveloper #FlutterDev</h2>
