@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter & NextJs Development**
 
-- 📫 How to reach me **hellosantoshp.dev@gmail.com**
+- 📫 How to reach me **santoshphadtare1610@gmail.com**
 
 - ⚡ Fun fact **I think helping people , is biggest achievement.**
 
