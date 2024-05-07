@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Santosh</h1>
 
 <h2 align="left">
-<p>My professional journey goes beyond coding; I actively contribute to my college's Student Council Technical Team, playing a pivotal role in shaping vibrant communities through clubs, hackathons, fests, and workshops. This is not just a profession; it's a narrative of dedication, continuous learning, and innovation.</p>
+<p>I actively contribute to my college's Student Council Technical Team, playing a pivotal role in shaping vibrant communities through clubs, hackathons, fests, and workshops. This is not just a profession; it's a narrative of dedication, continuous learning, and innovation.</p>
 
-<p>Eager to embark on new challenges, I invite you to join me on this exhilarating journey of tech tales and innovation. Let's build something extraordinary together! 💻✨</p> #TechInnovator #FullStackDeveloper #FlutterDev</h2>
+<p>Let's build something extraordinary together! 💻✨</p> 
 
 
 
