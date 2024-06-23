@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Santosh</h1>
+<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&random=false&width=435&height=80&lines=Hi👋🏻,+I'm+Santosh" alt="Santosh" /></h1>
 
 <h2 align="left">
 <p>I actively contribute to my college's Student Council Technical Team, playing a pivotal role in shaping vibrant communities through clubs, hackathons, fests, and workshops. This is not just a profession; it's a narrative of dedication, continuous learning, and innovation.</p>
