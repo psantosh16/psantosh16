@@ -1,12 +1,11 @@
-<p>Let's build something extraordinary together! 💻✨</p> 
+# Santosh Phadtare
+
+I'm a Software Developer who loves turning ideas into reality—whether it's building apps, automating workflows, or making the internet a slightly better place.
 
 
+⚡ Fun fact **I think helping people , is biggest achievement.**
 
-- 🌱 I’m currently learning **Backend Optimization Techniques and development**
-
-- 📫 How to reach me **[ https://santoshphadtare.me ]**
-
-- ⚡ Fun fact **I think helping people , is biggest achievement.**
+📫 How to reach me **[ https://santoshphadtare.me ]**
 
 
 
@@ -19,5 +18,7 @@
 </p>
 <br>
 
-![](https://komarev.com/ghpvc/?username=psantosh16&style=plastic)
+
+![](https://komarev.com/ghpvc/?username=psantosh16&style=plastic) 
+
 
